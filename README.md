@@ -1,2 +1,2 @@
 # ephemeral
-scratchy
+Mostly scratchy...
